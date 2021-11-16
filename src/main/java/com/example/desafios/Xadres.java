@@ -2,7 +2,7 @@ package com.example.desafios;
 
 import java.util.Scanner;
 
-public class XadresI {
+public class Xadres {
     public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
